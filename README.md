@@ -8,16 +8,16 @@ In this project, I analyzed a dataset to investigate trends and growth rates in 
 This project consists of four parts:
 
 - **Part 1: Trends**
-Using Excel, I take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
+-  Using Excel, I take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
 
 - Part 2: **Targeted Insights**
-With the aid of SQL, I extract targeted insights for university decision-makers, such as the performance of solar panel installations, recycling participation rates, and cost-effectiveness of green infrastructure projects.
+-  With the aid of SQL, I extract targeted insights for university decision-makers, such as the performance of solar panel installations, recycling participation rates, and cost-effectiveness of green infrastructure projects.
 
 - Part 3: **Visualizations**
-Leveraging Tableau, I create an interactive dashboard for facilities, finance, and sustainability teams (as well as campus leadership) to monitor key performance indicators on an ongoing basis.
+-  Leveraging Tableau, I create an interactive dashboard for facilities, finance, and sustainability teams (as well as campus leadership) to monitor key performance indicators on an ongoing basis.
 
 - Part 4: **Recommendations & Next Steps**
-Actionable suggestions for future sustainability initiatives, funding allocations, and operational improvements to enhance ROI and environmental impact.
+-  Actionable suggestions for future sustainability initiatives, funding allocations, and operational improvements to enhance ROI and environmental impact.
 
 The dataset spans multiple tables containing information on campus facilities, utility usage, sustainability programs, and geographic site details.
 
