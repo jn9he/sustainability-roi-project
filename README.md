@@ -1,9 +1,23 @@
-### Project Background
+#Project Background
 
+Synthetic dataset simulating a university’s campus-wide energy use, costs, and sustainability program metrics, with realistic anomalies to mirror real-world operational data.
+
+An interactive Tableau dashboard can be found [here]()
+
+# Table of Contents
+<a id='table_of_contents'></a><br>
+[Project Summary](#section_1)<br>
+[Part 1: Trends (Excel)](#section_2)<br>
+[Part 2: Targeted Insights (SQL)](#section_3)<br>
+[Part 3: Visualizations (Tableau)](#section_4)<br>
+[Part 4: Recommendations & Next Steps](#section_5)<br>
+[Addendum: Notes on Data Cleaning](#section_6)<br>
+
+# Project Summary
  
-The dataset used in this project is synthetic, generated to protect privacy while preserving realistic patterns, trends, and inconsistencies, and appropriate volume with 50,000+ total records.
+The dataset used in this project is synthetic, generated to preserve realistic patterns, trends, and inconsistencies. The data set contains 50,000+ total records, which is appropriate for meaningful analysis.
 
-In this project, I analyzed a dataset to investigate trends and growth rates in energy consumption, cost savings, waste reduction, renewable energy adoption, and water usage efficiency. Additionally, I closely examined a recently launched campus sustainability incentive program to assess its impact on overall utility costs, student participation, and environmental outcomes.
+In this project, I analyzed a dataset to investigate trends and growth rates in energy consumption, cost savings, waste reduction, renewable energy adoption, and water usage efficiency. Additionally, I  examined a recently launched campus sustainability incentive program to assess its impact on overall utility costs, student participation, and environmental outcomes.
 
 This project consists of four parts:
 
