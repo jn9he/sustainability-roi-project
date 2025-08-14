@@ -1,4 +1,4 @@
-#Project Background
+# Project Background
 
 Synthetic dataset simulating a university’s campus-wide energy use, costs, and sustainability program metrics, with realistic anomalies to mirror real-world operational data.
 
