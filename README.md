@@ -28,7 +28,7 @@ Here is the Entity Relationship Diagram
 
 [](https://github.com/AnalyticsAccelerator/sample_repo#data-structure--initial-checks)
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+The companies main database structure as seen below consists of seven tables, with a total row count of X records. A description of each table is as follows:
 
 - **Table 2:**
 - **Table 3:**
