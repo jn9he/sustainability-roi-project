@@ -1,6 +1,6 @@
 # Project Background
 
-Synthetic dataset simulating a university’s campus-wide energy use, costs, and sustainability program metrics, with realistic anomalies to mirror real-world operational data.
+Large synthetic dataset was generated to mimic a university’s campus-wide energy use, costs, and sustainability program metrics. Ensured data inconsistencies and realistic messiness in order to mirror real-world operational data.
 
 An interactive Tableau dashboard can be found [here]()
 
