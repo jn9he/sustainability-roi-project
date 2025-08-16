@@ -37,7 +37,24 @@ Part 4: **Recommendations & Next Steps**
 
 The basic cleaning scripts and inspection of the data [here]()
 
-**Entity Relationship Diagram (ERD):  **** <img width="1247" height="926" alt="image" src="https://github.com/user-attachments/assets/e86ab539-625b-4ad1-a524-ab119bf1df53" />
+**Entity Relationship Diagram (ERD):** <img width="1247" height="926" alt="image" src="https://github.com/user-attachments/assets/e86ab539-625b-4ad1-a524-ab119bf1df53" />
+
+The university has 45 buildings on campus, from which data was collected over a 4 year time period from 2021-2024. Over this period, the campus was subject to 200 sustainability projects.
+
+- Buildings
+	- Campus building characteristics, including operational data.
+- Sustainability Projects
+	- Tracks all sustainability investments with budget, timeline, and performance metrics. Core table for ROI calculations comparing expected vs actual performance.
+- Occupancy Patterns
+	- Monthly building usage statistics (12,000+ records). Critical for normalizing energy consumption and determining actual vs expected occupancy for ROI calculations.
+- Weather Data
+	- Daily Weather Conditions affecting energy consumption. Essential for weather normalizing energy savings.
+- Energy Consumption
+	- Daily granular consumption data for all utilities. This is the largest dataset (30,000+ records) and primary source for calculating energy savings and efficiency improvements.
+- Utility Costs
+	- Monthly billing data with rates and charges. Critical for calculating actual dollar savings from efficiency projects.
+- Carbon Emissions
+	- Monthly aggregated emissions data by campus cluster. Tracks Scope 1, 2, and 3 emissions for carbon footprint reporting and offset planning.
 
 [](https://github.com/AnalyticsAccelerator/sample_repo#data-structure--initial-checks)
 
