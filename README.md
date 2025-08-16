@@ -37,25 +37,6 @@ Part 4: **Recommendations & Next Steps**
 
 The basic cleaning scripts and inspection of the data [here]()
 
-# Structure / Initial Checks
-
-The operational energy management dataset consists of seven main tables, consisting of 50,000+ records total. 
-
-- **Buildings**
-	- Campus building characteristics, including operational data.
-- **Sustainability Projects**
-	- Tracks all sustainability investments with budget, timeline, and performance metrics. Core table for ROI calculations comparing expected vs actual performance.
-- **Occupancy Patterns** 
-	- Monthly building usage statistics. Critical for normalizing energy consumption and determining actual vs expected occupancy for ROI calculations.
-- **Weather Data**
-	- Daily Weather Conditions affecting energy consumption. Essential for weather normalizing energy savings.
-- **Energy Consumption** 
-	- Daily granular consumption data for all utilities. This is the largest dataset and primary source for calculating energy savings and efficiency improvements.
-- **Utility Costs**
-	- Monthly billing data with rates and charges. Critical for calculating actual dollar savings from efficiency projects.
-- **Carbon Emissions**
-	- Monthly aggregated emissions data by campus cluster. Tracks Scope 1, 2, and 3 emissions for carbon footprint reporting and offset planning.
-
 **Entity Relationship Diagram (ERD):  **** <img width="1247" height="926" alt="image" src="https://github.com/user-attachments/assets/e86ab539-625b-4ad1-a524-ab119bf1df53" />
 
 [](https://github.com/AnalyticsAccelerator/sample_repo#data-structure--initial-checks)
