@@ -4,15 +4,6 @@ Comprehensive synthetic dataset based on a real university's operational energy 
 
 An interactive powerBI dashboard can be found [here]()
 
-# Table of Contents
-<a id='table_of_contents'></a><br>
-[Project Summary](#section_1)<br>
-[Part 1: Trends (Excel)](#section_2)<br>
-[Part 2: Targeted Insights (SQL)](#section_3)<br>
-[Part 3: Visualizations (Tableau)](#section_4)<br>
-[Part 4: Recommendations & Next Steps](#section_5)<br>
-[Addendum: Notes on Data Cleaning](#section_6)<br>
-
 # Project Summary
 As a data analyst for a sustainability investment firm, I was given the task to analyze historical data related to a large state university's sustainability initative. I analyzed a historical trends within a dataset to provide a data driven approach to justify high impact decisions related the university's sustainability expenditures. Through my analysis of the data, I was able to provide key insights informing investment decisions, identifying inefficiencies in energy management, and quantifying the impact of carbon reduction efforts.
 
@@ -20,10 +11,13 @@ This project consists of four sections:
 
 **Part 1: Trends**
  - Using Excel to take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
+
 Part 2: **Insights**
 - With the aid of SQL, extract targeted insights for university decision-makers, such as the performance of solar panel installations, recycling participation rates, and cost-effectiveness of green infrastructure projects
+
 Part 3: **Visualizations**
 - Leveraging powerBI create an interactive dashboard for facilities, finance, and sustainability teams (as well as campus leadership) to monitor key performance indicators on an ongoing basis.
+
 Part 4: **Recommendations & Next Steps**
 -  Actionable suggestions for future sustainability initiatives, funding allocations, and operational improvements to enhance ROI and environmental impact.
 
