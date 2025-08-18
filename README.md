@@ -14,13 +14,9 @@ An interactive powerBI dashboard can be found [here]()
 [Addendum: Notes on Data Cleaning](#section_6)<br>
 
 # Project Summary
-The dataset used in this project is synthetic, generated to preserve realistic patterns, trends, and inconsistencies. 
+As a data analyst for a sustainability investment firm, I was given the task to analyze historical data related to a large state university's sustainability initative. I analyzed a historical trends within a dataset to provide a data driven approach to justify high impact decisions related the university's sustainability expenditures. Through my analysis of the data, I was able to provide key insights informing investment decisions, identifying inefficiencies in energy management, and quantifying the impact of carbon reduction efforts.
 
-**Stakeholder Scenario:** You're working with State University's Facilities Management and Campus Sustainability Office to create a powerBI ROI dashboard that tracks the financial and environmental impact of sustainability investments. The VP of Operations needs clear metrics to justify budget allocations and demonstrate progress toward the university's carbon neutrality goals.
-
-**Key Business Challenge:** $2.3M invested in sustainability initiatives over 2 years with unclear ROI visibility, making it difficult to secure additional funding and optimize resource allocation.
-
-Insights and recommendations are provided on the following key areas:
+This project consists of four sections:
 
 **Part 1: Trends**
  - Using Excel to take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
