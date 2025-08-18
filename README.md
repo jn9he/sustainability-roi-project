@@ -11,13 +11,13 @@ Acting as a data analyst for a sustainability investment firm, I leveraged histo
 This project consists of four sections:
 
 **Part 1: Trends**
- - Using Excel to take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
+ - Using Excel and Python to take a high-level look at broad operational and environmental trends within the data to identify notable insights for the facilities, finance, and sustainability teams.
 
 Part 2: **Insights**
-- With the aid of SQL, extract targeted insights for university decision-makers, such as the performance of solar panel installations, recycling participation rates, and cost-effectiveness of green infrastructure projects
+- With the aid of SQL, BigQuery extract targeted insights for university decision-makers, such as the performance of solar panel installations, recycling participation rates, and cost-effectiveness of green infrastructure projects
 
 Part 3: **Visualizations**
-- Leveraging powerBI create an interactive dashboard for facilities, finance, and sustainability teams (as well as campus leadership) to monitor key performance indicators on an ongoing basis.
+- Leveraging SQL Server in powerBI create an interactive dashboard for facilities, finance, and sustainability teams (as well as campus leadership) to monitor key performance indicators on an ongoing basis.
 
 Part 4: **Recommendations & Next Steps**
 -  Actionable suggestions for future sustainability initiatives, funding allocations, and operational improvements to enhance ROI and environmental impact.
