@@ -1,4 +1,4 @@
-<img width="1267" height="1037" alt="image" src="https://github.com/user-attachments/assets/92d4e59e-51c3-469e-a71a-ba495ea97e62" /># Project Background
+# Project Background
 
 Comprehensive synthetic dataset based on a real university's operational energy management data: Time-series energy consumption by building, carbon emissions, project initiatives, utilityCosts, weatherData, building use/materials information, and occupancy data, incorporating data messiness to mirror actual building performance / sustainability investment data.
 
@@ -39,8 +39,7 @@ The basic cleaning scripts and inspection of the data [here]()
 
 **Entity Relationship Diagram (ERD):** 
 
-<img width="1267" height="1037" alt="image" src="https://github.com/user-attachments/assets/8e32c355-9c9a-46d2-9647-a391349ea65b" />
-
+<img width="1267" height="1037" alt="image" src="https://github.com/user-attachments/assets/92d4e59e-51c3-469e-a71a-ba495ea97e62" />
 
 The university has 45 buildings on campus, from which data was collected over a 4 year time period from 2021-2024. Over this period, the campus was subject to 200 sustainability projects.
 
