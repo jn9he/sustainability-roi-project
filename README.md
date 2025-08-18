@@ -5,7 +5,8 @@ Comprehensive synthetic dataset based on a real university's operational energy 
 An interactive powerBI dashboard can be found [here]()
 
 # Project Summary
-As a data analyst for a sustainability investment firm, I was given the task to analyze historical data related to a large state university's sustainability initative. I analyzed a historical trends within a dataset to provide a data driven approach to justify high impact decisions related the university's sustainability expenditures. Through my analysis of the data, I was able to provide key insights informing investment decisions, identifying inefficiencies in energy management, and quantifying the impact of carbon reduction efforts.
+Acting as a data analyst for a sustainability investment firm, I leveraged historical data from a major university's sustainability initiative to inform high-impact, data-driven investment strategies. I analyzed a dataset, extracted key insights by clearly outlining project ROI, identified energy consumption inefficiencies and other important trends, and generated concrete metrics to quantify and visualize the sustainability initiative's progress towards the university's goal of carbon neutrality. 
+
 
 This project consists of four sections:
 
