@@ -2,7 +2,7 @@
 
 Comprehensive synthetic dataset based on a real university's operational energy management data: Time-series energy consumption by building, carbon emissions, project initiatives, utilityCosts, weatherData, building use/materials information, and occupancy data, incorporating data messiness to mirror actual building performance / sustainability investment data.
 
-An interactive powerBI dashboard can be found [here]()
+An interactive Tableau dashboard can be found [here]()
 
 # Project Summary
 Acting as a data analyst for a sustainability investment firm, I leveraged historical data from a major university's sustainability initiative to inform high-impact, data-driven investment strategies. I analyzed a dataset, extracted key insights by clearly outlining project ROI, identified energy consumption inefficiencies and other important trends, and generated concrete metrics to quantify and visualize the sustainability initiative's progress towards the university's goal of carbon neutrality. 
